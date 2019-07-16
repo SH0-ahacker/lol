@@ -42,3 +42,4 @@ cls
 # start "cmd_forever.bat"
 # start "PLOS1.zip"
 //NOTE:"lol.bat" = "the destruction of the"PC"!"
+# start "START_GOOGLE.bat"
