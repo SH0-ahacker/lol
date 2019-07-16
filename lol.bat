@@ -39,4 +39,4 @@ cls
 ECHO:LOLOLOL.
 cls
 # start "matrix_effect.bat"
-# strt ""
+# start "cmd_forever.bat"
