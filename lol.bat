@@ -1,0 +1,42 @@
+cmd
+@echo off
+ECHO:lol
+pause
+cls
+calc
+word
+charmap
+ECHO:LOLOLOL
+cls
+ECHO:LOLOLOL.
+cls
+ECHO:LOLOLOL
+cls
+ECHO:LOLOLOL.
+cls
+ECHO:LOLOLOL
+cls
+ECHO:LOLOLOL.
+cls
+ECHO:LOLOLOL
+cls
+ECHO:LOLOLOL.
+cls
+ECHO:LOLOLOL
+cls
+ECHO:LOLOLOL.
+cls
+ECHO:LOLOLOL
+cls
+ECHO:LOLOLOL.
+cls
+ECHO:LOLOLOL
+cls
+ECHO:LOLOLOL.
+cls
+ECHO:LOLOLOL
+cls
+ECHO:LOLOLOL.
+cls
+# start "matrix_effect.bat"
+# strt ""
