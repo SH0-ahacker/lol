@@ -1,4 +1,4 @@
 # lol
 <button>
-<pre>lol</pre>
+  <pre>lol</pre> <code>lol</code>
 </button>
